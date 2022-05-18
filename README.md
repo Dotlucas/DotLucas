@@ -15,6 +15,6 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img height="140em" src="https://user-images.githubusercontent.com/56793368/131222246-4e4b9d31-131f-4a48-b19d-b5def9136f5a.png"/>
+  ![luquinhasicon](https://user-images.githubusercontent.com/62804943/168937847-fca4f9d9-462a-4596-b1c1-05ab2803784a.jpeg)
   
   </div>
