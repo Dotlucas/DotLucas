@@ -14,6 +14,6 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   
   
-  <img align="center" height="100em" src="https://user-images.githubusercontent.com/62804943/168938125-93674b83-7a8f-4459-8395-322e60851e55.jpeg"/>
+  <img align="center" height="60em" src="https://user-images.githubusercontent.com/62804943/168938125-93674b83-7a8f-4459-8395-322e60851e55.jpeg"/>
   
   </div>
