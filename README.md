@@ -2,7 +2,7 @@
 
   🔸 💻 Estou trabalhando como suporte em uma empresa de software industrial chamada COGTIVE
   
-  🔸 📖 Atualmente, estou aprendendo C#, .NET
+  🔸 📖 Atualmente, estou aprendendo HTML + CSS + JavaScript, Python, C# + .NET PostgreSQL, Docker
     
   🔸 🌐 Quero colaborar com quem precisar ( pelo menos, dentro das tecnologias que estou aprendendo)
 
