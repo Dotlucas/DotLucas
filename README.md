@@ -1,6 +1,6 @@
                                                           Olá, me chamo Lucas!!
 
-  🔸 💻 Estou trabalhando como suporte em uma empresa de software industrial chamada COGTIVE
+  🔸 💻 Estou trabalhando como Suporte e Atendimento na empresa de software industrial (industria 4.0) chamada COGTIVE
   
   🔸 📖 Atualmente, estou aprendendo HTML + CSS + JavaScript, Python, C# + .NET PostgreSQL, Docker
     
